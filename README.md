@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: https://githubschool.github.io/github-games/
+You can play the game at: https://gh-dev-wegmans.github.io/github-games-jeremy-tice/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
